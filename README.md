@@ -1,7 +1,7 @@
 # CSS-30days
 
 
-<div align=center><img src="CSS30_Logo.png" width="800px"></div>
+<div align=center><img src="CSS30_Logo.png" width="400px"></div>
 
 ---
 
