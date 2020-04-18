@@ -23,3 +23,4 @@
 | Javascript 30天   |        主題         |                 內容                    |                     新增內容                    |
 |:--:|:--:|:--:|:--:|
 |       DAY 1       |  Fancy Buttons | 建立五種型態、大小、效果不同的按鈕 ||
+|       DAY2        | Sexy Typography | 創建兩種特殊的文字效果 ||
