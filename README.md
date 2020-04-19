@@ -25,3 +25,4 @@
 |       DAY 1       |  Fancy Buttons | 建立五種型態、大小、效果不同的按鈕 ||
 |       DAY2        | Sexy Typography | 創建兩種特殊的文字效果 ||
 |       DAY3        | Clip Images | 修剪出四種不同形狀的圖片||
+|       DAY4        | Sexy Registration Form | 建立帶有特效的表單 ||
