@@ -22,8 +22,8 @@
 
 | Javascript 30天   |        主題         |                 內容                    |                     新增內容                    |
 |:--:|:--:|:--:|:--:|
-|       DAY 1       |  Fancy Buttons | 建立五種型態、大小、效果不同的按鈕 ||
-|       DAY2        | Sexy Typography | 創建兩種特殊的文字效果 ||
-|       DAY3        | Clip Images | 修剪出四種不同形狀的圖片||
+|       DAY 1       |  Fancy Buttons | 建立五種型態、大小、效果不同的按鈕 | 增加兩種按鈕 |
+|       DAY2        | Sexy Typography | 創建兩種特殊的文字效果 | 增加兩種文字 |
+|       DAY3        | Clip Images | 剪裁出四種不同形狀的圖片||
 |       DAY4        | Sexy Registration Form | 建立帶有特效的表單 ||
 |       Day5        | Useful Broken Images | 更改圖片無法顯示時的默認樣式 ||
