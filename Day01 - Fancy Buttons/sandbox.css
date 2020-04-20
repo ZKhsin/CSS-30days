@@ -365,3 +365,109 @@
 .toggle-2__input:checked + .toggle-2__button::before {
     background-color: white;
 }
+
+
+
+/* ADD */
+
+.add {
+    color: red;
+}
+
+/* Train Exploration */
+/* Exploration-1 */
+.exploration-1 {
+    position: relative;
+    display: inline-block;
+    border-radius: 40px;
+    font-size: 0.9rem;
+    padding: 10px 20px;
+    border: 2px solid rgb(146, 70, 190);
+    background-size: 200%;
+    background-image: linear-gradient(to left, #fda7df, #9980fa, #fda7df);
+    color: white;
+    transition: all 1s ease;
+    outline: none;
+}
+
+.exploration-1:hover {
+    background-position: right;
+}
+
+.exploration-1:active {
+    animation: button-animation 2s linear infinite;
+}
+
+@keyframes button-animation {
+    0% {
+        background-position: left;
+    }
+    50% {
+        background-position: right;
+    }
+    100% {
+        background-position: left;
+    }
+}
+
+
+/* Exploration-2 */
+.exploration-2 {
+    font-family: Helvetica, Arial, sans-serif;
+    display: inline-block;
+    margin: 0 15px 0 0;
+}
+
+.exploration-2__input {
+    display: none;
+}
+
+.exploration-2__button {
+    position: relative;
+    display: inline-block;
+    top: 16px;
+    font-size: 1rem;
+    line-height: 30px;
+    text-transform: uppercase;
+    background-color: #4d4f56;
+    color: white;
+    width: 110px;
+    height: 40px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    border-radius: 40px;
+    border: 1px solid #4d4f56;
+}
+
+
+.exploration-2__button::before {
+    position: absolute;
+    top: 5px;
+    left: 53px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    content: "close";
+    display: inline-block;
+    height: 30px;
+    padding: 0 5px;
+    background: #e9ebee;
+    color: #4d4f56;
+    transition: all 0.3s ease;
+}
+
+.exploration-2__input:checked + .exploration-2__button {
+    background: #e9ebee;
+    border: 1px solid #4d4f56;
+}
+
+.exploration-2__input:checked + .exploration-2__button::before {
+    left: 5px;
+    content: "open";
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    color: #e9ebee;
+    background: #4d4f56;
+}
+
