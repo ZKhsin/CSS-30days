@@ -24,3 +24,4 @@
 |       DAY4       | Sexy Registration Form |         建立帶有特效的表單         |              |
 |       Day5       |  Useful Broken Images  |    更改圖片無法顯示時的默認樣式    |              |
 |       Day6       |      Print Styles      |   創建讓列印機可以漂亮輸出的樣式   |              |
+|       Day7       |   Image Manipulation   |      運用四種過濾效果改變圖片      |              |
