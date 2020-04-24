@@ -26,3 +26,4 @@
 |       Day6       |      Print Styles      |   創建讓列印機可以漂亮輸出的樣式    |              |
 |       Day7       |   Image Manipulation   |      運用四種過濾效果改變圖片       |              |
 |       Day8       |      8-bit Mario       | 畫出 8-bit 瑪利歐並實現跳起來的效果 |              |
+|       Day9       |     Modern Layouts     |          製作三種布局版面           |              |
