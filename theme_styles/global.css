@@ -302,6 +302,10 @@ footer {
   color: #e7eef1;
 }
 
+footer p {
+  color: #323b40;
+}
+
 footer a,
 footer a:link,
 footer a:visited {
