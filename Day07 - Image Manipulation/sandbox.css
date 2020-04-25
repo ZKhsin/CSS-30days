@@ -8,8 +8,8 @@
 }
 
 .grayscale {
-  -webkit-filter: grayscale(1);
-  filter: grayscale(1);
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
 }
 
 .grayscale:hover {
@@ -28,8 +28,8 @@
 }
 
 .invert {
-  -webkit-filter: invert(1);
-  filter: invert(1);
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
 }
 
 .invert:hover {
@@ -38,11 +38,31 @@
 }
 
 .sepia {
-  -webkit-filter: sepia(1);
-  filter: sepia(1);
+  -webkit-filter: sepia(100%);
+  filter: sepia(100%);
 }
 
 .sepia:hover {
   -webkit-filter: sepia(0);
   filter: sepia(0);
+}
+
+.contrast {
+  -webkit-filter: contrast(200%);
+  filter: contrast(200%);
+}
+
+.contrast:hover {
+  -webkit-filter: contrast(100%);
+  filter: contrast(100%);
+}
+
+.brightness {
+  -webkit-filter: brightness(200%);
+  filter: brightness(200%);
+}
+
+.brightness:hover {
+  -webkit-filter: brightness(100%);
+  filter: brightness(100%);
 }
