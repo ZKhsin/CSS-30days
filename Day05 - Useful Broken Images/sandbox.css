@@ -1,6 +1,7 @@
 .image {
   position: relative;
-  display: inline-block;
+  display: block;
+  width: 300px;
   font-size: 1rem;
   text-align: center;
   text-transform: uppercase;
@@ -20,7 +21,40 @@
   background-image: url("noimage.png");
   background-size: 10%;
   background-repeat: no-repeat;
-  background-position: 15px 10px;
+  background-position: 10px 5px;
   z-index: 1;
   content: "" attr(alt) "Not Found";
+}
+
+/* ADD */
+.image2 {
+  position: relative;
+  display: block;
+  width: 250px;
+  font-size: 1.1rem;
+  text-align: right;
+  text-transform: uppercase;
+  margin: 0 0 40px;
+}
+
+.image2::after {
+  display: inherit;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-width: 200px;
+  padding: 10px 20px 10px 45px;
+  border: 2px dotted red;
+  background: #eb9191;
+  background-image: url("error.png");
+  background-size: 12%;
+  background-position: 10px 5px;
+  background-repeat: no-repeat;
+  z-index: 1;
+  content: "" attr(alt) " NOT FOUND";
+}
+
+.icon-info {
+  font-size: 12px;
 }
