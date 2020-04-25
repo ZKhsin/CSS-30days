@@ -318,3 +318,9 @@ footer a:hover {
   box-shadow: -3px 3px 0 #00b3b4;
   transform: rotate(-1deg);
 }
+
+.add {
+  margin-top: 40px;
+  margin-bottom: 0;
+  color: red;
+}
