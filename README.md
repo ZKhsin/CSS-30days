@@ -28,3 +28,4 @@
 |       Day8       |      8-bit Mario       | 畫出 8-bit 瑪利歐並實現跳起來的效果 | 畫一隻皮卡丘搭配簡易發電效果 ❤ |
 |       Day9       |     Modern Layouts     |          製作三種布局版面           |                                |
 |      Day10       |     Pricing Table      |             製作價目表              |                                |
+|      Day11       |        IE Hacks        |    針對 IE6-9 增加指定註釋及樣式    |                                |
