@@ -30,3 +30,4 @@
 |      Day10       |     Pricing Table      |             製作價目表              |                                |
 |      Day11       |        IE Hacks        |    針對 IE6-9 增加指定註釋及樣式    |                                |
 |      Day12       |     CSS Variables      |        練習運用 CSS Variable        |
+|      Day13       |     Sticky Footer      |            建立頁腳置底             |
