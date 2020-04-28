@@ -320,6 +320,20 @@ footer a:hover {
   transform: rotate(-1deg);
 }
 
+.sticky-footer-lesson footer {
+  position: relative;
+  background: #e7eef1;
+  margin: 0 250px;
+  padding: 20px 20px 40px;
+  box-sizing: border-box;
+  border-radius: 2px;
+  color: #333;
+}
+
+.sticky-footer-lesson footer a:link {
+  color: #e12345;
+}
+
 .add {
   margin-top: 40px;
   margin-bottom: 0;
