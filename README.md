@@ -32,3 +32,4 @@
 |      Day12       |     CSS Variables      |        練習運用 CSS Variable        |
 |      Day13       |     Sticky Footer      |            建立頁尾置底             |
 |      Day14       |     Sticky Header      |            建立頁首置頂             |                                |
+|      Day15       |     Sticky Sidebar     |          建立固定的側邊欄           |                                |
