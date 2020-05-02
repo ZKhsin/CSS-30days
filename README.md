@@ -34,3 +34,4 @@
 |      Day14       |     Sticky Header      |            建立頁首置頂             |                                |
 |      Day15       |     Sticky Sidebar     |          建立固定的側邊欄           |                                |
 |      Day16       |      Modal Window      |        運用 CSS 實現互動視窗        |                                |
+|      Day17       |         Pacman         |    用 CSS 實現小精靈追逐鬼魂動畫    |                                |
