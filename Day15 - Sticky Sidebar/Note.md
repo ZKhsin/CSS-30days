@@ -15,3 +15,9 @@
 - clear
   - 當使用 float 元素時，由於區塊是浮動的，若接下來的區塊為使用 float 時便會產生跑版的現象，此時須適當使用 clear 來解決問題
   - 使用值: left、right、both、none、inherit(IE 不支援)
+
+---
+
+### **`新增 --`**
+
+- 於 Day16 新增固定側邊欄

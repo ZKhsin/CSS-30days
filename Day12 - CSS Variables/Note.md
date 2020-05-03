@@ -23,3 +23,9 @@
 - calc()
   - 用來做數值運算(+-\*/)，常用於計算長寬高等尺寸，運算數值不需要同單位
   - [MDN--clac()](https://developer.mozilla.org/en-US/docs/Web/CSS/calc)
+
+---
+
+### **`新增 --`**
+
+- 新增運用 CSS Variable 實現動畫效果
