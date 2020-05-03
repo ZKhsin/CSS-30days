@@ -22,3 +22,9 @@
   - A + B: 相鄰選擇器，可選擇有相同父元素，緊鄰著 A 元素後的第一個同層 B 元素
   - A ~ B: 間接選擇器，可選擇有相同父元素，且 A 元素以下的所有同層 B 元素
   - [MDN--Selector](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+
+---
+
+### **`新增 --`**
+
+- 新增一頁面集合 Day13~Day16 學習內容，於頁面中呈現頁首置頂、頁尾置底、固定側邊欄及新增另一互動視窗
