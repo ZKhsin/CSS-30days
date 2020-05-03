@@ -26,12 +26,13 @@
 |       Day6       |      Print Styles      |   創建讓列印機可以漂亮輸出的樣式    |               無               |
 |       Day7       |   Image Manipulation   |      運用四種過濾效果改變圖片       |        增加兩種過濾效果        |
 |       Day8       |      8-bit Mario       | 畫出 8-bit 瑪利歐並實現跳起來的效果 | 畫一隻皮卡丘搭配簡易發電效果 ❤ |
-|       Day9       |     Modern Layouts     |          製作三種布局版面           |                                |
-|      Day10       |     Pricing Table      |             製作價目表              |                                |
-|      Day11       |        IE Hacks        |    針對 IE6-9 增加指定註釋及樣式    |                                |
-|      Day12       |     CSS Variables      |        練習運用 CSS Variable        |
-|      Day13       |     Sticky Footer      |            建立頁尾置底             |
-|      Day14       |     Sticky Header      |            建立頁首置頂             |                                |
-|      Day15       |     Sticky Sidebar     |          建立固定的側邊欄           |                                |
-|      Day16       |      Modal Window      |        運用 CSS 實現互動視窗        |                                |
+|       Day9       |     Modern Layouts     |          製作三種布局版面           |   新增運用 flex 完成布局版面   |
+|      Day10       |     Pricing Table      |             製作價目表              |    新增運用 flex 完成價目表    |
+|      Day11       |        IE Hacks        |    針對 IE6-9 增加指定註釋及樣式    |               無               |
+|      Day12       |     CSS Variables      |        練習運用 CSS Variable        |     新增 CSS Variable 運用     |
+|      Day13       |     Sticky Footer      |            建立頁尾置底             |   將 Day16 頁面加入頁尾置底    |
+|      Day14       |     Sticky Header      |            建立頁首置頂             |   將 Day16 頁面加入頁首置頂    |
+|      Day15       |     Sticky Sidebar     |          建立固定的側邊欄           |    將 Day16 頁面加入側邊欄     |
+|      Day16       |      Modal Window      |        運用 CSS 實現互動視窗        |         新增一互動視窗         |
 |      Day17       |         Pacman         |    用 CSS 實現小精靈追逐鬼魂動畫    |                                |
+|      Day18       |        Tooltips        |       製作四種方向的工具提示        |                                |
