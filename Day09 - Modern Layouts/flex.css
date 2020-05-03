@@ -1,0 +1,77 @@
+.layout1 .box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.layout1 .box article {
+  flex-basis: 58%;
+}
+
+.layout1 .box aside {
+  flex-basis: 40%;
+  height: 50%;
+}
+
+.layout2 header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.layout2 header .logo {
+  flex-basis: 20%;
+  margin: 0;
+}
+
+.layout2 header nav {
+  flex-basis: 78%;
+  margin: 0;
+}
+
+.layout2 .box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.layout2 .box aside {
+  flex-basis: 23%;
+}
+
+.layout2 .box .sidebar {
+  height: 50%;
+}
+
+.layout2 .box article {
+  flex-basis: 50%;
+}
+
+.layout3 header {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+
+.layout3 header .logo {
+  flex-basis: 20%;
+  margin: 0;
+}
+
+.layout3 header nav {
+  flex-basis: 78%;
+  margin: 0;
+}
+
+.layout3 .articles {
+  display: flex;
+  justify-content: space-between;
+}
+
+.layout3 .articles article {
+  flex-basis: 32%;
+}
+
+.layout1 footer,
+.layout2 footer,
+.layout3 footer {
+  display: block;
+}

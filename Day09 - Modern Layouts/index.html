@@ -7,7 +7,8 @@
 
   <link rel="stylesheet" href="../theme_styles/global.css">
 
-  <link rel="stylesheet" href="sandbox.css">
+  <!-- <link rel="stylesheet" href="sandbox.css"> -->
+  <link rel="stylesheet" href="flex.css">
 
   <link href="https://fonts.googleapis.com/css?family=Bubblegum+Sans|Nova+Mono|Roboto+Condensed" rel="stylesheet">
 </head>
@@ -30,13 +31,15 @@
         <header>
           <p>This is the <code>header</code></p>
         </header>
-        <article>
-          <p>This is an <code>article</code>. It contains body text, such as lorem ipsum dolor sit amet, consectetur
-            adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-        </article>
-        <aside>
-          <p>Let's throw in an <code>aside</code> as our content sidebar.</p>
-        </aside>
+        <div class="box">
+          <article>
+            <p>This is an <code>article</code>. It contains body text, such as lorem ipsum dolor sit amet, consectetur
+              adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          </article>
+          <aside>
+            <p>Let's throw in an <code>aside</code> as our content sidebar.</p>
+          </aside>
+        </div>
         <footer>
           <p>Of course, we cannot forget the <code>footer</code>!</p>
         </footer>
@@ -57,16 +60,18 @@
             </ul>
           </nav>
         </header>
-        <aside class="sidenav">
-          <p>This is another <code>aside</code>, which we'll use as our left navigation bar.</p>
-        </aside>
-        <article>
-          <p>This is an <code>article</code>. It contains body text, such as lorem ipsum dolor sit amet, consectetur
-            adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-        </article>
-        <aside class="sidebar">
-          <p>Let's throw in an <code>aside</code> as our content sidebar.</p>
-        </aside>
+        <div class="box">
+          <aside class="sidenav">
+            <p>This is another <code>aside</code>, which we'll use as our left navigation bar.</p>
+          </aside>
+          <article>
+            <p>This is an <code>article</code>. It contains body text, such as lorem ipsum dolor sit amet, consectetur
+              adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          </article>
+          <aside class="sidebar">
+            <p>Let's throw in an <code>aside</code> as our content sidebar.</p>
+          </aside>
+        </div>
         <footer>
           <p>Of course, we cannot forget the <code>footer</code>!</p>
         </footer>
