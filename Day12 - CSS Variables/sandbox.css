@@ -2,6 +2,11 @@
   --primary-color: orangered;
   --secondary-color: hotpink;
   --base-measurement: 20px;
+  /* ADD */
+  --hover-width: 90%;
+  --hover-color: rgb(252, 149, 112);
+  --hover-circle: 50%;
+  --hover-secondary-color: rgb(216, 15, 189);
 }
 
 .sandbox .box {
@@ -13,8 +18,19 @@
   height: calc(var(--base-measurement) * 10);
   width: calc(var(--base-measurement) * 10);
   line-height: calc(var(--base-measurement) * 10);
+  transition: all 3s ease;
+}
+
+.sandbox .box1:hover {
+  width: var(--hover-width);
+  background-color: var(--hover-color);
 }
 
 .sandbox .box2 {
   background: var(--secondary-color);
+}
+
+.sandbox .box2:hover {
+  border-radius: var(--hover-circle);
+  background-color: var(--hover-secondary-color);
 }
