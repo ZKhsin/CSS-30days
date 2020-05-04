@@ -36,3 +36,4 @@
 |      Day16       |      Modal Window      |        運用 CSS 實現互動視窗        |         新增一互動視窗         |
 |      Day17       |         Pacman         |    用 CSS 實現小精靈追逐鬼魂動畫    |                                |
 |      Day18       |        Tooltips        |       製作四種方向的工具提示        |                                |
+|      Day19       | Animated Progress Bar  |          用 CSS 製作進度條          |
