@@ -37,3 +37,4 @@
 |      Day17       |         Pacman         |    用 CSS 實現小精靈追逐鬼魂動畫    |                                |
 |      Day18       |        Tooltips        |       製作四種方向的工具提示        |                                |
 |      Day19       | Animated Progress Bar  |          用 CSS 製作進度條          |
+|      Day20       |    Animated Pyramid    |      用 CSS 製作金字塔動畫效果      |                                |
