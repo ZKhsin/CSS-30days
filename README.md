@@ -39,3 +39,4 @@
 |      Day19       | Animated Progress Bar  |          用 CSS 製作進度條          |                                |
 |      Day20       |    Animated Pyramid    |      用 CSS 製作金字塔動畫效果      |                                |
 |      Day21       |        Spinners        |         製作兩種動畫旋轉器          |                                |
+|      Day22       |     Flexbox Layout     |        運用 flexbox 布局版面        |                                |
