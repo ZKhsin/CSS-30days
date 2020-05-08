@@ -40,3 +40,4 @@
 |      Day20       |    Animated Pyramid    |      用 CSS 製作金字塔動畫效果      |                                |
 |      Day21       |        Spinners        |         製作兩種動畫旋轉器          |                                |
 |      Day22       |     Flexbox Layout     |        運用 flexbox 布局版面        |                                |
+|      Day23       |     CSS3 Accordion     |  運用 CSS 製作點擊標題展開文字效果  |                                |
