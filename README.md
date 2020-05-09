@@ -41,3 +41,4 @@
 |      Day21       |        Spinners        |         製作兩種動畫旋轉器          |                                |
 |      Day22       |     Flexbox Layout     |        運用 flexbox 布局版面        |                                |
 |      Day23       |     CSS3 Accordion     |  運用 CSS 製作點擊標題展開文字效果  |                                |
+|      Day24       |        Supports        |            學習@support             |                                |
