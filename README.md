@@ -42,3 +42,4 @@
 |      Day22       |     Flexbox Layout     |        運用 flexbox 布局版面        |                                |
 |      Day23       |     CSS3 Accordion     |  運用 CSS 製作點擊標題展開文字效果  |                                |
 |      Day24       |        Supports        |            學習@support             |                                |
+|      Day25       |     Sliding Panels     |      製作不同角度滑出文字效果       |                                |
