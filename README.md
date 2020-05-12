@@ -44,3 +44,4 @@
 |      Day24       |        Supports        |            學習@support             |                                |
 |      Day25       |     Sliding Panels     |      製作不同角度滑出文字效果       |                                |
 |      Day26       |       3D Layers        |          製作 3D 圖層效果           |                                |
+|      Day27       |     Dropdown Menu      |           製作下拉式選單            |                                |
