@@ -46,3 +46,4 @@
 |      Day26       |       3D Layers        |          製作 3D 圖層效果           |                                |
 |      Day27       |     Dropdown Menu      |           製作下拉式選單            |                                |
 |      Day28       |     Optimizing CSS     |            CSS 壓縮優化             |                                |
+|      Day29       |     Blurry Effect      |          製作圖片模糊效果           |                                |
