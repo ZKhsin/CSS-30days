@@ -24,3 +24,9 @@
   - inherit: 繼承父元素屬性
   - initial: 設定 CSS 屬性為他的預設值
   - unset: initial 及 inherit 的組合，將屬性設定 unset，如該屬性原預設為繼承屬性，則會等同於 inherit，如該屬性原為非繼承屬性，則會等同於 initial
+
+---
+
+### **`新增 --`**
+
+- 新增一旋轉器

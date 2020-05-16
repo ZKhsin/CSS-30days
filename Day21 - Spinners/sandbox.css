@@ -98,3 +98,59 @@
     transform: translateX(120%) rotate(-180deg);
   }
 }
+
+.spinner-3 {
+  position: relative;
+  padding-top: 25px;
+  padding-left: 10px;
+  display: inline-block;
+  vertical-align: middle;
+  width: 64px;
+  height: 64px;
+  border-radius: 64px;
+}
+
+.spinner-3::before,
+.spinner-3::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80px;
+  height: 80px;
+  border-radius: 80px;
+  color: #f00;
+  box-shadow: inset -5px 0 0 0 currentColor;
+  animation: rotator-2 3s linear infinite;
+}
+
+.spinner-3::before {
+  left: 0;
+  transform: rotate(180deg);
+  color: #00f;
+  animation: rotator-3 3s linear infinite;
+}
+
+@keyframes rotator-2 {
+  0% {
+    transform: rotate(-180deg);
+  }
+  50% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(180deg);
+  }
+}
+
+@keyframes rotator-3 {
+  0% {
+    transform: rotate(180deg);
+  }
+  50% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(-180deg);
+  }
+}
