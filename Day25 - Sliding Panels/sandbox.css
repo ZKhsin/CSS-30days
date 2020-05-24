@@ -49,3 +49,19 @@
 .slide-left .slide-content {
   transform: translate(-100%, 0);
 }
+
+.slide-top-left .slide-content {
+  transform: translate(-100%, -100%);
+}
+
+.slide-top-right .slide-content {
+  transform: translate(100%, -100%);
+}
+
+.slide-bottom-left .slide-content {
+  transform: translate(-100%, 100%);
+}
+
+.slide-bottom-right .slide-content {
+  transform: translate(100%, 100%);
+}
