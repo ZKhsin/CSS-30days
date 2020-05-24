@@ -40,10 +40,10 @@
 |      Day20       |    Animated Pyramid    |      用 CSS 製作金字塔動畫效果      |         新增一動畫效果         |
 |      Day21       |        Spinners        |         製作兩種動畫旋轉器          |          新增一旋轉器          |
 |      Day22       |     Flexbox Layout     |        運用 flexbox 布局版面        |               無               |
-|      Day23       |     CSS3 Accordion     |  運用 CSS 製作點擊標題展開文字效果  |                                |
+|      Day23       |     CSS3 Accordion     |  運用 CSS 製作點擊標題展開文字效果  |               無               |
 |      Day24       |        Supports        |            學習@support             |               無               |
-|      Day25       |     Sliding Panels     |      製作不同角度滑出文字效果       |                                |
-|      Day26       |       3D Layers        |          製作 3D 圖層效果           |                                |
+|      Day25       |     Sliding Panels     |      製作不同角度滑出文字效果       |     新增四斜角滑出文字效果     |
+|      Day26       |       3D Layers        |          製作 3D 圖層效果           |        新增 3D 翻面卡片        |
 |      Day27       |     Dropdown Menu      |           製作下拉式選單            |                                |
 |      Day28       |     Optimizing CSS     |            CSS 壓縮優化             |               無               |
 |      Day29       |     Blurry Effect      |          製作圖片模糊效果           |                                |
