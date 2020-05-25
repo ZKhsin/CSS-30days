@@ -19,3 +19,25 @@
   filter: blur(0);
   transform: scale(1.1);
 }
+
+.exploration-gallery {
+  position: relative;
+  display: inline-block;
+}
+
+.exploration-gallery img {
+  border: 7px solid rgb(15, 3, 83);
+  box-shadow: 0 0 6px rgba(0, 0, 255, 0.4);
+  cursor: pointer;
+  transition: filter 0.3s linear, transform 0.3s linear;
+}
+
+.exploration-gallery:hover img {
+  filter: grayscale(90%);
+  transform: scale(0.9);
+}
+
+.exploration-gallery img:hover {
+  filter: grayscale(0%) brightness(150%);
+  transform: scale(1.1);
+}

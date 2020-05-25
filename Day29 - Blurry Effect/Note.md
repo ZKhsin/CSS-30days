@@ -20,3 +20,9 @@
   - ease-in, 等同於 cubic-bezier(0.42, 0, 1.0, 1.0)
   - ease-out, 等同於 cubic-bezier(0, 0, 0.58, 1.0)
   - ease-in-out, 等同於 cubic-bezier(0.42, 0, 0. - 58, 1.0)
+
+---
+
+### **`新增 --`**
+
+- 新增四張圖片呈現不同效果(灰階加亮度)
