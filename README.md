@@ -44,7 +44,7 @@
 |      Day24       |        Supports        |            學習@support             |               無               |
 |      Day25       |     Sliding Panels     |      製作不同角度滑出文字效果       |     新增四斜角滑出文字效果     |
 |      Day26       |       3D Layers        |          製作 3D 圖層效果           |        新增 3D 翻面卡片        |
-|      Day27       |     Dropdown Menu      |           製作下拉式選單            |                                |
+|      Day27       |     Dropdown Menu      |           製作下拉式選單            |               無               |
 |      Day28       |     Optimizing CSS     |            CSS 壓縮優化             |               無               |
-|      Day29       |     Blurry Effect      |          製作圖片模糊效果           |                                |
-|      Day30       |      CSS3 Coffee       |        運用 CSS 畫出一杯咖啡        |                                |
+|      Day29       |     Blurry Effect      |          製作圖片模糊效果           |   新增四圖片效果(灰階加亮度)   |
+|      Day30       |      CSS3 Coffee       |        運用 CSS 畫出一杯咖啡        |               無               |
